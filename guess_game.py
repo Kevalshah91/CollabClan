@@ -12,7 +12,7 @@ while(number_of_guesses <= 8):
         print("this is a greater number , give a smaller number")
      else:
         print("Congratulations you won !!! ")
-        print(number_of_guesses, "guesses you took to finish.")
+        print(f"guesses you took {number_of_guesses} guesses to finish.")
         break
      print(8 - number_of_guesses, "guesses left")
      number_of_guesses = number_of_guesses + 1
