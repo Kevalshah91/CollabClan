@@ -1,0 +1,1994 @@
+[
+ {
+   "ID": "01 ",
+   "Projects": {
+      "Experience": " Create a Full Stack Web application using MERN Stack "
+   },
+   "Skills": " MongoDB,Express.js,React.js,Node.js",
+   "Domain": " Full Stack Web Development"
+},
+ {
+   "ID": "02 ",
+   "Projects": {
+      "Experience": " Create a Mobile App using React Native "
+   },
+   "Skills": " React Native,JavaScript ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "03 ",
+   "Projects": {
+      "Experience": " Develop a RESTful API with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "04 ",
+   "Projects": {
+      "Experience": " Design a User Interface for a Blog Website "
+   },
+   "Skills": " UI/UX Design,HTML,CSS ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "05 ",
+   "Projects": {
+      "Experience": " Build a Machine Learning Model for Predictive Analytics "
+   },
+   "Skills": " Python,Machine Learning ",
+   "Domain": " Data Science"
+},
+ {
+   "ID": "06 ",
+   "Projects": {
+      "Experience": " Develop a Content Management System (CMS) in PHP "
+   },
+   "Skills": " PHP,Web Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "07 ",
+   "Projects": {
+      "Experience": " Create a 2D Game in Unity with C# "
+   },
+   "Skills": " Unity,C# ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "08 ",
+   "Projects": {
+      "Experience": " Implement DevOps Practices for CI/CD using Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "09 ",
+   "Projects": {
+      "Experience": " Design a Database Schema for an E-commerce Platform "
+   },
+   "Skills": " Database Design,SQL ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "10 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,C# ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "ID ",
+   "Projects": {
+      "Experience": " Projects/Experience "
+   },
+   "Skills": " Skills ",
+   "Domain": " Domain"
+},
+ {
+   "ID": "--------------------------------------------------------------",
+   "Projects": {
+      "Experience": ""
+   },
+   "Skills": "",
+   "Domain": ""
+},
+ {
+   "ID": "11 ",
+   "Projects": {
+      "Experience": " Build a Social Media App with React.js "
+   },
+   "Skills": " React.js,Node.js,MongoDB ",
+   "Domain": " Full Stack Web Development"
+},
+ {
+   "ID": "12 ",
+   "Projects": {
+      "Experience": " Develop a Chat Application in Swift "
+   },
+   "Skills": " Swift,UIKit,Real-time Chat ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "13 ",
+   "Projects": {
+      "Experience": " Create a Data Visualization Dashboard with D3.js "
+   },
+   "Skills": " D3.js,Data Visualization ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "14 ",
+   "Projects": {
+      "Experience": " Implement a RESTful API with Java and Spring Boot "
+   },
+   "Skills": " Java,Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "15 ",
+   "Projects": {
+      "Experience": " Design a Modern Landing Page with HTML and CSS "
+   },
+   "Skills": " HTML,CSS,Web Design ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "16 ",
+   "Projects": {
+      "Experience": " Train a Natural Language Processing Model with Python "
+   },
+   "Skills": " Python,NLP,Machine Learning ",
+   "Domain": " Natural Language Processing"
+},
+ {
+   "ID": "17 ",
+   "Projects": {
+      "Experience": " Deploy a Kubernetes Cluster for Microservices "
+   },
+   "Skills": " Kubernetes,Docker,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "18 ",
+   "Projects": {
+      "Experience": " Develop an Inventory Management System with PHP "
+   },
+   "Skills": " PHP,MySQL,Inventory Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "19 ",
+   "Projects": {
+      "Experience": " Create a 3D Game in Unreal Engine with C++ "
+   },
+   "Skills": " Unreal Engine,C++ ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "20 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Mobile App "
+   },
+   "Skills": " A/B Testing,Data Analysis ",
+   "Domain": " Mobile App Optimization"
+},
+ {
+   "ID": "21 ",
+   "Projects": {
+      "Experience": " Build an E-commerce Website using Shopify "
+   },
+   "Skills": " Shopify,E-commerce ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "22 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Start-up "
+   },
+   "Skills": " Graphic Design,Branding ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "23 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a WordPress Website "
+   },
+   "Skills": " SEO,WordPress ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "24 ",
+   "Projects": {
+      "Experience": " Implement Security Measures in a Web Application "
+   },
+   "Skills": " Web Security,Penetration Testing ",
+   "Domain": " Security"
+},
+ {
+   "ID": "25 ",
+   "Projects": {
+      "Experience": " Develop an Online Learning Platform with Django "
+   },
+   "Skills": " Django,Python,Online Education ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "26 ",
+   "Projects": {
+      "Experience": " Create a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "27 ",
+   "Projects": {
+      "Experience": " Build a Blog Platform with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "28 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface in Figma "
+   },
+   "Skills": " UI/UX Design,Figma,Mobile App Design ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "29 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Pandas and Python "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "30 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "31 ",
+   "Projects": {
+      "Experience": " Develop a CRM System with Laravel and MySQL "
+   },
+   "Skills": " Laravel,PHP,CRM Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "32 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "33 ",
+   "Projects": {
+      "Experience": " Build an Android App with Kotlin "
+   },
+   "Skills": " Kotlin,Android App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "34 ",
+   "Projects": {
+      "Experience": " Create a Virtual Reality Experience with Unity "
+   },
+   "Skills": " Unity,Virtual Reality,VR Development ",
+   "Domain": " Virtual Reality"
+},
+ {
+   "ID": "35 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Python,Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "36 ",
+   "Projects": {
+      "Experience": " Develop a Point of Sale System with Java "
+   },
+   "Skills": " Java,Point of Sale,POS Development ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "37 ",
+   "Projects": {
+      "Experience": " Design an E-commerce User Interface with Sketch "
+   },
+   "Skills": " Sketch,UI/UX Design,E-commerce Design ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "38 ",
+   "Projects": {
+      "Experience": " Conduct Market Research and Analysis "
+   },
+   "Skills": " Market Research,Data Analysis ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "39 ",
+   "Projects": {
+      "Experience": " Implement Microservices Architecture with Spring Cloud "
+   },
+   "Skills": " Spring Cloud,Java,Microservices ",
+   "Domain": " Software Architecture"
+},
+ {
+   "ID": "40 ",
+   "Projects": {
+      "Experience": " Create a Budget Tracking App with React Native "
+   },
+   "Skills": " React Native,JavaScript,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "41 ",
+   "Projects": {
+      "Experience": " Design a Logo for a Non-Profit Organization "
+   },
+   "Skills": " Graphic Design,Logo Design ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "42 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with SQL Queries "
+   },
+   "Skills": " SQL,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "43 ",
+   "Projects": {
+      "Experience": " Develop a Chatbot with Natural Language Processing "
+   },
+   "Skills": " NLP,Chatbot Development ",
+   "Domain": " Chatbot Development"
+},
+ {
+   "ID": "44 ",
+   "Projects": {
+      "Experience": " Build a Personal Portfolio Website with Vue.js "
+   },
+   "Skills": " Vue.js,Web Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "45 ",
+   "Projects": {
+      "Experience": " Conduct User Testing for a Software Application "
+   },
+   "Skills": " User Testing,Usability Testing ",
+   "Domain": " User Experience"
+},
+ {
+   "ID": "46 ",
+   "Projects": {
+      "Experience": " Implement Secure Authentication for Web Apps "
+   },
+   "Skills": " Web Security,Authentication ",
+   "Domain": " Security"
+},
+ {
+   "ID": "47 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking App in Flutter "
+   },
+   "Skills": " Flutter,Dart,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "48 ",
+   "Projects": {
+      "Experience": " Create Interactive Data Visualizations with Tableau "
+   },
+   "Skills": " Tableau,Data Visualization ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "49 ",
+   "Projects": {
+      "Experience": " Deploy a Content Management System (CMS) with WordPress "
+   },
+   "Skills": " WordPress,CMS Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "50 ",
+   "Projects": {
+      "Experience": " Design a User-Friendly Onboarding Experience "
+   },
+   "Skills": " UI/UX Design,Onboarding,User Experience ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "51 ",
+   "Projects": {
+      "Experience": " Develop a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "52 ",
+   "Projects": {
+      "Experience": " Build a Fitness Tracking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,C#,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "53 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Social Media Data "
+   },
+   "Skills": " Sentiment Analysis,NLP ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "54 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure as Code with Terraform "
+   },
+   "Skills": " Terraform,Infrastructure as Code ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "55 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with Electron "
+   },
+   "Skills": " Electron,JavaScript,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "56 ",
+   "Projects": {
+      "Experience": " Create a Game Character Animation with Blender "
+   },
+   "Skills": " Blender,Animation,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "57 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Website with Minimalistic Design "
+   },
+   "Skills": " Minimalistic Design,Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "58 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Large E-commerce Website "
+   },
+   "Skills": " SEO,E-commerce Optimization ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "59 ",
+   "Projects": {
+      "Experience": " Deploy a RESTful API on AWS Lambda "
+   },
+   "Skills": " AWS Lambda,API Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "60 ",
+   "Projects": {
+      "Experience": " Develop a Travel Booking System with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Travel Booking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "61 ",
+   "Projects": {
+      "Experience": " Design a Mobile App Interface for Food Delivery "
+   },
+   "Skills": " UI/UX Design,Food Delivery App ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "62 ",
+   "Projects": {
+      "Experience": " Implement Load Balancing with Nginx "
+   },
+   "Skills": " Nginx,Load Balancing,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "63 ",
+   "Projects": {
+      "Experience": " Build an Online Marketplace with PHP and MySQL "
+   },
+   "Skills": " PHP,MySQL,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "64 ",
+   "Projects": {
+      "Experience": " Create an Educational Game for Kids in Unity "
+   },
+   "Skills": " Unity,C#,Educational Game ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "65 ",
+   "Projects": {
+      "Experience": " Conduct Market Analysis for a New Product Launch "
+   },
+   "Skills": " Market Analysis,Product Launch ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "66 ",
+   "Projects": {
+      "Experience": " Develop a Custom WordPress Theme "
+   },
+   "Skills": " WordPress,Theme Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "67 ",
+   "Projects": {
+      "Experience": " Design a Landing Page for a Product Launch "
+   },
+   "Skills": " HTML,CSS,Landing Page Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "68 ",
+   "Projects": {
+      "Experience": " Build a Cross-Platform Mobile App with React Native "
+   },
+   "Skills": " React Native,JavaScript,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "69 ",
+   "Projects": {
+      "Experience": " Perform Data Visualization with Power BI "
+   },
+   "Skills": " Power BI,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "70 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Travis CI "
+   },
+   "Skills": " Travis CI,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "71 ",
+   "Projects": {
+      "Experience": " Develop a Property Management System with Python "
+   },
+   "Skills": " Python,Property Management ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "72 ",
+   "Projects": {
+      "Experience": " Create a Virtual Reality Game with Unreal Engine "
+   },
+   "Skills": " Unreal Engine,VR Game Development ",
+   "Domain": " Virtual Reality"
+},
+ {
+   "ID": "73 ",
+   "Projects": {
+      "Experience": " Design a Logo and Brand Identity for a Startup "
+   },
+   "Skills": " Branding,Logo Design ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "74 ",
+   "Projects": {
+      "Experience": " Optimize Database Queries for Better Performance "
+   },
+   "Skills": " SQL,Database Query Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "75 ",
+   "Projects": {
+      "Experience": " Develop an Online Banking System with Java "
+   },
+   "Skills": " Java,Online Banking ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "76 ",
+   "Projects": {
+      "Experience": " Build an E-commerce Website using WooCommerce "
+   },
+   "Skills": " WooCommerce,E-commerce Development ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "77 ",
+   "Projects": {
+      "Experience": " Design a Responsive Dashboard for Analytics "
+   },
+   "Skills": " HTML,CSS,Dashboard Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "78 ",
+   "Projects": {
+      "Experience": " Develop a Mobile App with GPS Tracking "
+   },
+   "Skills": " Mobile App Development,GPS Tracking ",
+   "Domain": " Location-based Services"
+},
+ {
+   "ID": "79 ",
+   "Projects": {
+      "Experience": " Create a Machine Learning Model for Predictive Maintenance "
+   },
+   "Skills": " Python,Machine Learning ",
+   "Domain": " Predictive Maintenance"
+},
+ {
+   "ID": "80 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for a Mobile App "
+   },
+   "Skills": " Usability Testing,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "81 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Network Infrastructure "
+   },
+   "Skills": " Network Security,Security Measures ",
+   "Domain": " Network Security"
+},
+ {
+   "ID": "82 ",
+   "Projects": {
+      "Experience": " Develop a Travel Booking Mobile App with Flutter "
+   },
+   "Skills": " Flutter,Mobile App Development,Travel Booking ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "83 ",
+   "Projects": {
+      "Experience": " Build a Social Networking Website with Django "
+   },
+   "Skills": " Django,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "84 ",
+   "Projects": {
+      "Experience": " Design a User-Focused Onboarding Experience "
+   },
+   "Skills": " UI/UX Design,Onboarding,User Experience ",
+   "Domain": " UI/UX Design"
+},
+ {
+   "ID": "85 ",
+   "Projects": {
+      "Experience": " Optimize SQL Queries for Large Databases "
+   },
+   "Skills": " SQL,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "86 ",
+   "Projects": {
+      "Experience": " Create an Inventory Management System with C# "
+   },
+   "Skills": " C#,Inventory Management ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "87 ",
+   "Projects": {
+      "Experience": " Develop a Chatbot for Customer Support "
+   },
+   "Skills": " Chatbot Development,Customer Support ",
+   "Domain": " Chatbot Development"
+},
+ {
+   "ID": "88 ",
+   "Projects": {
+      "Experience": " Build a Personal Blog Platform with WordPress "
+   },
+   "Skills": " WordPress,Personal Blog ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "89 ",
+   "Projects": {
+      "Experience": " Conduct Data Analysis for Market Research "
+   },
+   "Skills": " Data Analysis,Market Research ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "90 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure as Code with Ansible "
+   },
+   "Skills": " Ansible,Infrastructure as Code ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "91 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Mobile App Interface "
+   },
+   "Skills": " UI/UX Design,Minimalist Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "92 ",
+   "Projects": {
+      "Experience": " Develop a Financial Dashboard with Excel "
+   },
+   "Skills": " Excel,Financial Dashboard ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "93 ",
+   "Projects": {
+      "Experience": " Create a Recipe Mobile App with React Native "
+   },
+   "Skills": " React Native,Recipe App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "94 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Social Media Data "
+   },
+   "Skills": " Sentiment Analysis,NLP ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "95 ",
+   "Projects": {
+      "Experience": " Implement Cloud Deployment with AWS "
+   },
+   "Skills": " AWS,Cloud Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "96 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with Java "
+   },
+   "Skills": " Java,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "97 ",
+   "Projects": {
+      "Experience": " Design a Game User Interface with Unity "
+   },
+   "Skills": " UI/UX Design,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "98 ",
+   "Projects": {
+      "Experience": " Build a Time Tracking Application with Python "
+   },
+   "Skills": " Python,Time Tracking ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "99 ",
+   "Projects": {
+      "Experience": " Conduct User Testing for a Web Application "
+   },
+   "Skills": " User Testing,Web Application ",
+   "Domain": " User Experience"
+},
+ {
+   "ID": "100 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Blog Website "
+   },
+   "Skills": " SEO,Blog SEO ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "101 ",
+   "Projects": {
+      "Experience": " Build an E-commerce Website with Magento "
+   },
+   "Skills": " Magento,E-commerce Development ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "102 ",
+   "Projects": {
+      "Experience": " Design a User-Centric Mobile App Interface "
+   },
+   "Skills": " UI/UX Design,Mobile App Design ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "103 ",
+   "Projects": {
+      "Experience": " Develop a RESTful API with Node.js and Express "
+   },
+   "Skills": " Node.js,Express.js,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "104 ",
+   "Projects": {
+      "Experience": " Create a Data Analysis Dashboard with R "
+   },
+   "Skills": " R,Data Analysis,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "105 ",
+   "Projects": {
+      "Experience": " Implement CI/CD Pipeline with GitLab "
+   },
+   "Skills": " GitLab,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "106 ",
+   "Projects": {
+      "Experience": " Develop a Custom WordPress Plugin "
+   },
+   "Skills": " WordPress,Plugin Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "107 ",
+   "Projects": {
+      "Experience": " Design a Landing Page for a Startup Launch "
+   },
+   "Skills": " HTML,CSS,Landing Page Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "108 ",
+   "Projects": {
+      "Experience": " Build a Health and Fitness App with Flutter "
+   },
+   "Skills": " Flutter,Health App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "109 ",
+   "Projects": {
+      "Experience": " Conduct Market Research for a Product Launch "
+   },
+   "Skills": " Market Research,Product Launch ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "110 ",
+   "Projects": {
+      "Experience": " Optimize Database Queries for Performance "
+   },
+   "Skills": " SQL,Database Query Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "111 ",
+   "Projects": {
+      "Experience": " Develop a Real-Time Chat Application "
+   },
+   "Skills": " Real-time Chat,WebSockets ",
+   "Domain": " Chat Application"
+},
+ {
+   "ID": "112 ",
+   "Projects": {
+      "Experience": " Create a Social Media Campaign Strategy "
+   },
+   "Skills": " Social Media Marketing,Strategy ",
+   "Domain": " Digital Marketing"
+},
+ {
+   "ID": "113 ",
+   "Projects": {
+      "Experience": " Design an E-commerce Storefront with Shopify "
+   },
+   "Skills": " Shopify,E-commerce Design ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "114 ",
+   "Projects": {
+      "Experience": " Deploy a Scalable Microservices Architecture "
+   },
+   "Skills": " Microservices,Scalability ",
+   "Domain": " Software Architecture"
+},
+ {
+   "ID": "115 ",
+   "Projects": {
+      "Experience": " Build a To-Do List Mobile App with React Native "
+   },
+   "Skills": " React Native,JavaScript,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "116 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Python and Pandas "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "117 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Prometheus "
+   },
+   "Skills": " Prometheus,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "118 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Laravel "
+   },
+   "Skills": " Laravel,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "119 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "120 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "121 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "122 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARKit "
+   },
+   "Skills": " ARKit,iOS Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "123 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "124 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Adobe XD "
+   },
+   "Skills": " UI/UX Design,Adobe XD,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "125 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "126 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "127 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "128 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "129 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "130 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "131 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "132 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "133 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "134 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "135 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "136 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "137 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "138 ",
+   "Projects": {
+      "Experience": " Build a Social Media Analytics Dashboard "
+   },
+   "Skills": " Data Analytics,Social Media Analytics ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "139 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "140 ",
+   "Projects": {
+      "Experience": " Create a Game Level Design in Unreal Engine "
+   },
+   "Skills": " Unreal Engine,Game Design ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "141 ",
+   "Projects": {
+      "Experience": " Design an Interactive Dashboard for Financial Data "
+   },
+   "Skills": " Data Visualization,Financial Data ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "142 ",
+   "Projects": {
+      "Experience": " Develop a Healthcare Mobile App with React Native "
+   },
+   "Skills": " React Native,Healthcare App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "143 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Customer Reviews "
+   },
+   "Skills": " Sentiment Analysis,Text Analysis ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "144 ",
+   "Projects": {
+      "Experience": " Implement Cloud Deployment with Azure "
+   },
+   "Skills": " Azure,Cloud Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "145 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with Electron "
+   },
+   "Skills": " Electron,JavaScript,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "146 ",
+   "Projects": {
+      "Experience": " Design a Game User Interface with Unity "
+   },
+   "Skills": " UI/UX Design,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "147 ",
+   "Projects": {
+      "Experience": " Build a Time Tracking Application with Python "
+   },
+   "Skills": " Python,Time Tracking ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "148 ",
+   "Projects": {
+      "Experience": " Create an Inventory Management System with Java "
+   },
+   "Skills": " Java,Inventory Management ",
+   "Domain": " Software Development"
+},
+ {
+   "ID": "149 ",
+   "Projects": {
+      "Experience": " Develop a Chatbot for Customer Service "
+   },
+   "Skills": " Chatbot Development,Customer Service ",
+   "Domain": " Chatbot Development"
+},
+ {
+   "ID": "150 ",
+   "Projects": {
+      "Experience": " Build a Personal Blog Platform with WordPress "
+   },
+   "Skills": " WordPress,Personal Blog ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "151 ",
+   "Projects": {
+      "Experience": " Conduct Data Analysis for Market Research "
+   },
+   "Skills": " Data Analysis,Market Research ",
+   "Domain": " Market Research"
+},
+ {
+   "ID": "152 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure as Code with Puppet "
+   },
+   "Skills": " Puppet,Infrastructure as Code ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "153 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Mobile App Interface "
+   },
+   "Skills": " UI/UX Design,Minimalist Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "154 ",
+   "Projects": {
+      "Experience": " Develop a Financial Dashboard with Power BI "
+   },
+   "Skills": " Power BI,Financial Dashboard ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "155 ",
+   "Projects": {
+      "Experience": " Create a Recipe Mobile App with React Native "
+   },
+   "Skills": " React Native,Recipe App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "156 ",
+   "Projects": {
+      "Experience": " Perform Sentiment Analysis on Social Media Data "
+   },
+   "Skills": " Sentiment Analysis,NLP ",
+   "Domain": " Data Analysis"
+},
+ {
+   "ID": "157 ",
+   "Projects": {
+      "Experience": " Implement Cloud Deployment with Google Cloud "
+   },
+   "Skills": " Google Cloud,Cloud Deployment ",
+   "Domain": " Cloud Computing"
+},
+ {
+   "ID": "158 ",
+   "Projects": {
+      "Experience": " Develop a Cross-Platform Desktop App with C# "
+   },
+   "Skills": " C#,Desktop App Development ",
+   "Domain": " Desktop App Development"
+},
+ {
+   "ID": "159 ",
+   "Projects": {
+      "Experience": " Design a User-Centric E-commerce Website "
+   },
+   "Skills": " UI/UX Design,E-commerce Design ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "160 ",
+   "Projects": {
+      "Experience": " Build a Health and Wellness Mobile App "
+   },
+   "Skills": " Health App,Wellness App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "161 ",
+   "Projects": {
+      "Experience": " Create a Data Visualization Dashboard with Plotly "
+   },
+   "Skills": " Plotly,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "162 ",
+   "Projects": {
+      "Experience": " Implement CI/CD Pipeline with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "163 ",
+   "Projects": {
+      "Experience": " Develop a Custom WordPress Theme "
+   },
+   "Skills": " WordPress,Theme Development ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "164 ",
+   "Projects": {
+      "Experience": " Design a Landing Page for a New Product Launch "
+   },
+   "Skills": " HTML,CSS,Landing Page Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "165 ",
+   "Projects": {
+      "Experience": " Build a Travel Booking System with React.js "
+   },
+   "Skills": " React.js,Travel Booking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "166 ",
+   "Projects": {
+      "Experience": " Optimize SQL Queries for Large Databases "
+   },
+   "Skills": " SQL,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "167 ",
+   "Projects": {
+      "Experience": " Develop a Real-Time Chat Application with WebSockets "
+   },
+   "Skills": " Real-time Chat,WebSockets ",
+   "Domain": " Chat Application"
+},
+ {
+   "ID": "168 ",
+   "Projects": {
+      "Experience": " Create a Social Media Marketing Strategy "
+   },
+   "Skills": " Social Media Marketing,Marketing Strategy ",
+   "Domain": " Digital Marketing"
+},
+ {
+   "ID": "169 ",
+   "Projects": {
+      "Experience": " Design an E-commerce Storefront with WooCommerce "
+   },
+   "Skills": " WooCommerce,E-commerce Design ",
+   "Domain": " E-commerce Development"
+},
+ {
+   "ID": "170 ",
+   "Projects": {
+      "Experience": " Deploy a Microservices Architecture with Kubernetes "
+   },
+   "Skills": " Kubernetes,Microservices ",
+   "Domain": " Software Architecture"
+},
+ {
+   "ID": "171 ",
+   "Projects": {
+      "Experience": " Build a To-Do List Mobile App with Flutter "
+   },
+   "Skills": " Flutter,To-Do List App ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "172 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with R and Data Visualization "
+   },
+   "Skills": " R,Data Analysis,Data Visualization ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "173 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Nagios "
+   },
+   "Skills": " Nagios,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "174 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "175 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "176 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "177 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "178 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARCore "
+   },
+   "Skills": " ARCore,Android Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "179 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "180 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Figma "
+   },
+   "Skills": " UI/UX Design,Figma,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "181 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "182 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "183 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "184 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "185 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "186 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "187 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "188 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "189 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "190 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "191 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "192 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "193 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "194 ",
+   "Projects": {
+      "Experience": " Build a Social Media Analytics Dashboard "
+   },
+   "Skills": " Data Analytics,Social Media Analytics ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "195 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "196 ",
+   "Projects": {
+      "Experience": " Create a Game Level Design in Unreal Engine "
+   },
+   "Skills": " Unreal Engine,Game Design ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "197 ",
+   "Projects": {
+      "Experience": " Design an Interactive Dashboard for Financial Data "
+   },
+   "Skills": " Data Visualization,Financial Data ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "198 ",
+   "Projects": {
+      "Experience": " Develop a Healthcare Mobile App with React Native "
+   },
+   "Skills": " React Native,Healthcare App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "199 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Python and Pandas "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "200 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Prometheus "
+   },
+   "Skills": " Prometheus,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "201 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Laravel "
+   },
+   "Skills": " Laravel,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "202 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "203 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "204 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "205 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARKit "
+   },
+   "Skills": " ARKit,iOS Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "206 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "207 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Adobe XD "
+   },
+   "Skills": " UI/UX Design,Adobe XD,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "208 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "209 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "210 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "211 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "212 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "213 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "214 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "215 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "216 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "217 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "218 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "219 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "220 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "221 ",
+   "Projects": {
+      "Experience": " Build a Social Media Analytics Dashboard "
+   },
+   "Skills": " Data Analytics,Social Media Analytics ",
+   "Domain": " Data Visualization"
+},
+ {
+   "ID": "222 ",
+   "Projects": {
+      "Experience": " Implement Continuous Integration with Jenkins "
+   },
+   "Skills": " Jenkins,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "223 ",
+   "Projects": {
+      "Experience": " Create a Game Level Design in Unreal Engine "
+   },
+   "Skills": " Unreal Engine,Game Design ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "224 ",
+   "Projects": {
+      "Experience": " Design an Interactive Dashboard for Financial Data "
+   },
+   "Skills": " Data Visualization,Financial Data ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "225 ",
+   "Projects": {
+      "Experience": " Develop a Healthcare Mobile App with React Native "
+   },
+   "Skills": " React Native,Healthcare App,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "226 ",
+   "Projects": {
+      "Experience": " Perform Data Analysis with Python and Pandas "
+   },
+   "Skills": " Python,Pandas,Data Analysis ",
+   "Domain": " Data Analytics"
+},
+ {
+   "ID": "227 ",
+   "Projects": {
+      "Experience": " Implement Infrastructure Monitoring with Prometheus "
+   },
+   "Skills": " Prometheus,DevOps ",
+   "Domain": " DevOps"
+},
+ {
+   "ID": "228 ",
+   "Projects": {
+      "Experience": " Develop a Task Management System with Laravel "
+   },
+   "Skills": " Laravel,Task Management ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "229 ",
+   "Projects": {
+      "Experience": " Design a Minimalist Portfolio Website "
+   },
+   "Skills": " Minimalist Design,Portfolio Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "230 ",
+   "Projects": {
+      "Experience": " Optimize SEO for a Local Business Website "
+   },
+   "Skills": " Local SEO,SEO Optimization ",
+   "Domain": " Search Engine Optimization"
+},
+ {
+   "ID": "231 ",
+   "Projects": {
+      "Experience": " Create a RESTful API using Spring Boot "
+   },
+   "Skills": " Spring Boot,API Development ",
+   "Domain": " Backend Development"
+},
+ {
+   "ID": "232 ",
+   "Projects": {
+      "Experience": " Develop an Augmented Reality App with ARCore "
+   },
+   "Skills": " ARCore,Android Development ",
+   "Domain": " Augmented Reality"
+},
+ {
+   "ID": "233 ",
+   "Projects": {
+      "Experience": " Build a Personal Finance Management System "
+   },
+   "Skills": " Finance Management,Web Development ",
+   "Domain": " Financial Software"
+},
+ {
+   "ID": "234 ",
+   "Projects": {
+      "Experience": " Design a Mobile App User Interface with Figma "
+   },
+   "Skills": " UI/UX Design,Figma,Mobile App Design ",
+   "Domain": " Mobile App Design"
+},
+ {
+   "ID": "235 ",
+   "Projects": {
+      "Experience": " Conduct Usability Testing for an E-commerce Site "
+   },
+   "Skills": " Usability Testing,E-commerce,User Experience ",
+   "Domain": " User Testing"
+},
+ {
+   "ID": "236 ",
+   "Projects": {
+      "Experience": " Implement Security Measures for Web Applications "
+   },
+   "Skills": " Web Security,Security Measures ",
+   "Domain": " Security"
+},
+ {
+   "ID": "237 ",
+   "Projects": {
+      "Experience": " Develop a Social Networking Site with Ruby on Rails "
+   },
+   "Skills": " Ruby on Rails,Web Development,Social Networking ",
+   "Domain": " Web Development"
+},
+ {
+   "ID": "238 ",
+   "Projects": {
+      "Experience": " Create a Travel Booking Mobile App with Xamarin "
+   },
+   "Skills": " Xamarin,Travel Booking,Mobile App Development ",
+   "Domain": " Mobile App Development"
+},
+ {
+   "ID": "239 ",
+   "Projects": {
+      "Experience": " Build a Real-Time Dashboard for IoT Data "
+   },
+   "Skills": " IoT,Real-Time Dashboard,Web Development ",
+   "Domain": " IoT Development"
+},
+ {
+   "ID": "240 ",
+   "Projects": {
+      "Experience": " Deploy a Machine Learning Model with Flask "
+   },
+   "Skills": " Flask,Machine Learning Deployment ",
+   "Domain": " Machine Learning"
+},
+ {
+   "ID": "241 ",
+   "Projects": {
+      "Experience": " Design a Responsive Website for a Restaurant "
+   },
+   "Skills": " HTML,CSS,Responsive Web Design ",
+   "Domain": " Web Design"
+},
+ {
+   "ID": "242 ",
+   "Projects": {
+      "Experience": " Develop a Mobile Game with Unity and C# "
+   },
+   "Skills": " Unity,C#,Game Development ",
+   "Domain": " Game Development"
+},
+ {
+   "ID": "243 ",
+   "Projects": {
+      "Experience": " Conduct A/B Testing for a Website Redesign "
+   },
+   "Skills": " A/B Testing,Website Redesign ",
+   "Domain": " Website Optimization"
+},
+ {
+   "ID": "244 ",
+   "Projects": {
+      "Experience": " Create an E-learning Platform with Moodle "
+   },
+   "Skills": " Moodle,E-learning ",
+   "Domain": " E-learning Development"
+},
+ {
+   "ID": "245 ",
+   "Projects": {
+      "Experience": " Design a Logo and Branding for a Fashion Label "
+   },
+   "Skills": " Branding,Logo Design,Fashion ",
+   "Domain": " Graphic Design"
+},
+ {
+   "ID": "246 ",
+   "Projects": {
+      "Experience": " Optimize Database Performance with Indexing "
+   },
+   "Skills": " Database Indexing,Database Optimization ",
+   "Domain": " Database Management"
+},
+ {
+   "ID": "247 ",
+   "Projects": {
+      "Experience": " Develop an Online Marketplace with Django "
+   },
+   "Skills": " Django,Online Marketplace ",
+   "Domain": " Web Development"
+}
+]
