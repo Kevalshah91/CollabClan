@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Registration</title>
+</head>
+<body>
+  <div class="container">
+    <form id="registrationForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+
+      <label for="username">Username:</label>
+<input type="text" id="username" name="username" required>
+   <label for="email">Email:</label>
+<input type="text" id="email" name="email" required>
+
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required>
+
+      <label for="pic">Profile Picture (URL):</label>
+      <input type="text" id="pic" name="pic">
+
+      <label for="github">GitHub Profile:</label>
+      <input type="text" id="github" name="github">
+
+      <label for="file">PDF File:</label>
+      <input type="file" id="file" name="file" accept=".pdf">
+
+      <button type="button" onclick="submitForm()">Register</button>
+    </form>
+  </div>
+
+  <script>
+    async function submitForm() {
+const form = document.getElementById('registrationForm');
+const formData = new FormData(form);
+
+      try {
+        const response = await fetch('http://localhost:5000/register', {
+          method: 'POST',
+          body: formData,
+        });
+
+        if (response.ok) {
+          const result = await response.json();
+          console.log('User registered successfully:', result);
+        } else {
+          const error = await response.text();
+          console.error('Failed to register user:', error);
+        }
+      } catch (error) {
+        console.error('Error during registration:', error);
+      }
+    }
+  </script>
+</body>
+</html>
