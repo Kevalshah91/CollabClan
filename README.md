@@ -6,6 +6,10 @@ Welcome to CodeUnite, your go-to platform for revolutionizing open-source collab
 
 https://pitch.com/v/codeunite-ukrgxe
 
+## Demo Video
+
+(https://youtu.be/j7rnmCBlFow?si=cg6NYh_nslc9_Skn)
+
 ## Project Overview
 
 CollabClan is a comprehensive platform designed to empower developers through various innovative features. Let's explore the exciting tech stack, applications, and features behind this project! 🚀
