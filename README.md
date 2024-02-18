@@ -8,7 +8,7 @@ https://pitch.com/v/codeunite-ukrgxe
 
 ## Demo Video
 
-(https://youtu.be/j7rnmCBlFow?si=cg6NYh_nslc9_Skn)
+https://youtu.be/j7rnmCBlFow?si=cg6NYh_nslc9_Skn
 
 ## Project Overview
 
