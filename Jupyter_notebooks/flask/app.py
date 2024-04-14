@@ -35,7 +35,7 @@ def recommend_projects(pdf_file):
             return ''
 
     def get_top_repositories(domain):
-        url = f"https://api.github.com/search/repositories?q=stars:>1+topic:{domain}&sort=stars&order=desc&per_page=50"
+        url = f""
         headers = {
             "Accept": "application/vnd.github.v3+json"
         }
